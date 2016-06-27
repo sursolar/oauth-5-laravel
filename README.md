@@ -32,6 +32,7 @@ Included service implementations:
     - Xing
     - Yahoo
  - OAuth2
+    - Shogakukan Account
     - Amazon
     - BitLy
     - Box
