@@ -65,7 +65,7 @@ Add oauth-5-laravel to your composer.json file:
 
 ```
 "require": {
-  "oriceon/oauth-5-laravel": "dev-master"
+  "sursolar/oauth-5-laravel": "dev-master"
 }
 ```
 
